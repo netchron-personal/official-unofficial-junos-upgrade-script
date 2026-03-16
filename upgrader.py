@@ -51,7 +51,7 @@ def main():
 
     # Check if the start version is higher than the finish version
     if (start_major, start_minor) > (finish_major, finish_minor):
-        print(f"You want to downgrade from {start_version} to {finish_version}. Downgrades are not supported.")
+        print(f"You want to downgrade from {start_version} to {finish_version}. Warning: Downgrades are officially not supported.")
         return
 
     # Calculate the upgrade path
