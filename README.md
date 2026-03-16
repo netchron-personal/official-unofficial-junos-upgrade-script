@@ -1,5 +1,5 @@
-[![IPv6](https://img.shields.io/badge/IPv6-All_Features-blue?style=for-the-badge)]
-[![IPv4](https://img.shields.io/badge/IPv4_(DEPRECATED)-Basics-red?style=for-the-badge)]
+(https://img.shields.io/badge/IPv6-All_Features-blue?style=for-the-badge)
+(https://img.shields.io/badge/IPv4_(DEPRECATED)-Basics-red?style=for-the-badge)
 
 [![Developer](https://img.shields.io/badge/Developed_by-Netchron-orange?style=for-the-badge)]
 [![Developed](https://img.shields.io/badge/Developed_for-Europe-00457C?style=for-the-badge)]
