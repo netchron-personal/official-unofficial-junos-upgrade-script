@@ -1,3 +1,12 @@
+https://img.shields.io/badge/IPv6-All_Features-blue?style=for-the-badge
+https://img.shields.io/badge/IPv4_(DEPRECATED)-Basics-red?style=for-the-badge
+
+https://img.shields.io/badge/Developed_by-Netchron-orange?style=for-the-badge
+
+https://img.shields.io/badge/Version-0.0.1-brightgreen?style=for-the-badge)
+https://img.shields.io/badge/Status-ALPHA-brightgreen?style=for-the-badge
+https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux
+
 # Version Checker
 
 ## Overview
